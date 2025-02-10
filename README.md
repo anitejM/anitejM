@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
+##I am the third year student (currently 6th Semester), aspiring to be an SDE!
 <!--
 **anitejM/anitejM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
